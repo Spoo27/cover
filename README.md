@@ -32,6 +32,9 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 ...
+book.html
+
+
 <!DOCTYPE html>
 <html>
 
@@ -134,16 +137,16 @@ Publish the website in the LocalHost.
                 <hr style="color:rgb(16, 116, 230)">
             </div>
             <div class="booktitle">
-                <h1 style="font-family: cursive; color:rgb(16, 13, 5);">I HOPE EVERYTHING'S FINE</h1></div>
+                <h1 style="font-family: cursive; color:rgb(16, 13, 5);">ONE DAY LIFE WILL CHANGE</h1></div>
             <div class="subtitle" style="text-align: center;color: rgb(214, 29, 103);">
-                Let me live...
+                 Secret of happy life
             </div>
             <div class="subtitle" style="color: rgb(17, 5, 62);text-align: center;">
-                 New york Top seller of 2024
+                 Top seller of 2024
             </div>
 
             <div class="mypic">
-                <img src="c:\Users\admin\Pictures\book cover page.webp" width="100" height="120" >
+                <img src="24900238.jpg" width="120" height="100" >
             </div>
             <div class="id">
                 <hr style="color:rgb(238, 17, 68)">
@@ -164,7 +167,7 @@ Publish the website in the LocalHost.
 </html>
 ...
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-08 145047.png>)
+![alt text](<book cover using microsoft paint.png>)
 
 
 ## RESULT:
