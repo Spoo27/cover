@@ -166,8 +166,10 @@ book.html
 
 </html>
 ...
+
 ## OUTPUT:
-![alt text](<book cover using microsoft paint.png>)
+
+![book cover](https://github.com/user-attachments/assets/c96a9e77-8c8e-47d0-81ad-b1a6a938506c)
 
 
 ## RESULT:
